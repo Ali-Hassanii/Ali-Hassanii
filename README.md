@@ -4,10 +4,10 @@
 <img src="https://github.com/Ali-Hassanii/Ali-Hassanii/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
   - 😄 Pronouns: He / Him
-  - 🔭 I’m currently working on [StainlessFolad.ir](https://stainlessfolad.ir/)
+  - 🔭 I’m currently working on [StainlessFolad.ir](https://github.com/stainlessfolad/frontend)
   - 🌱 I’m currently learning Full-Stack Web Development
   - 💬 Ask me about Flutter, React, Django and Ci/Cd
-  - ⚡ Fun fact: ...
+  - ⚡ Fun fact: Swimming is my favorite sport! And 
 ## Languages
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -27,7 +27,7 @@
 ## Media
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=i7fm8w8ica1o22cangb2pcg2p&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=09ff00&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=i7fm8w8ica1o22cangb2pcg2p&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=i7fm8w8ica1o22cangb2pcg2p&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=09ff00&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=i7fm8w8ica1o22cangb2pcg2p&redirect=true)
 
 </div>
 

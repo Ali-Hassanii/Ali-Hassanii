@@ -7,7 +7,7 @@
   - 🔭 I’m currently working on [StainlessFolad.ir](https://github.com/stainlessfolad/frontend)
   - 🌱 I’m currently learning Full-Stack Web Development
   - 💬 Ask me about Flutter, React, Django and Ci/Cd
-  - ⚡ Fun fact: Swimming is my favorite sport! And 
+  - ⚡ Fun fact: Swimming is my favorite sport!
 ## Languages
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
